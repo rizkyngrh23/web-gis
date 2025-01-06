@@ -1,4 +1,4 @@
-# Web GIS
+# Simple GIS Web
 
 A powerful and user-friendly React-based web GIS application that allows users to interact with maps, manage layers, and customize basemaps. This application supports user authentication, GeoJSON file uploads, and marker management.
 
